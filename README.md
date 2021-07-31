@@ -7,7 +7,7 @@ This project consists of two parts: a game simulation in Unity, and a Python pro
 My work mainly exists in this Python program.
 
 Our poster:
-
+![Poster](https://github.com/jasonall-cauc/Self-learning-Robotic-Arm/blob/main/Poster_Robot.jpg)
 
 
 ## How it works:
