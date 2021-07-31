@@ -1,5 +1,5 @@
 # Self-learning-Robotic-Arm
-Course project of EC602, Boston University.
+Course project of EC601, Boston University.
 
 Neatened in July, 2021
 
@@ -43,7 +43,7 @@ I keep this project as a record, and hope to improve it in the future.
 
 ## Developers
 
-This is a group project in course EC602, which I took in Boston University in 2020. 
+This is a group project in course EC601, which I took in Boston University in 2020. 
 
 Authors:
 
